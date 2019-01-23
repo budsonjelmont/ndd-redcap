@@ -1,0 +1,65 @@
+/*.shazam-icons > table > tbody > tr > td:nth-child(2) {*/
+/*     transform: translateX(-417%);*/
+/*}*/
+
+#aoo_response {
+    display: inline;
+    margin-left:-10px;
+}
+
+.rowlabel {
+    /*width: 464px;*/
+    width: 60.5vw;
+}
+
+.input-label {
+    width: 75px;
+    /*transform: translateX(-19%);*/
+}
+
+.input {
+    width: 9%;
+    /*float: right;*/
+}
+
+/*.mo{*/
+/*    transform: translateX(-21%);*/
+/*}*/
+
+.uk.click.shazam {
+    width:55px;
+    margin-top:3px;
+}
+
+.uk.click.shazam > .space {
+    margin-top:-8px;
+}
+
+.uk.click.shazam > .choicevert {
+  margin-left:0px;   
+}
+
+.uk.click.shazam > .enhancedchoice_wrapper > .enhancedchoice {
+    font-size:10px;
+    padding: 0 0 0 0;
+    float:none;
+}
+
+.uk.click.shazam > div > input:nth-child(1) {
+  display: block;
+  margin:auto;
+}
+
+.uk.click.shazam > div > label {
+  font-size: 0.9em;
+  display: block;
+}
+
+.mo.input-label {
+    width:55px;
+    /*transform: translateX(-36%);*/
+}
+
+/*.sz-innerrow > th > .mo.input-label {*/
+/*  transform: translateX(-36%);*/
+/*}*/
